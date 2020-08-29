@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome"
+date:   2020-07-30 12:17:50 -0400
+categories: first-post update
+---
+Not much to see, just the beginnings of a personal site/blog.
+
+For a more holistic view of who I am and what I do, you can start with my [about page](/about/), or check out my [LinkedIn](https://www.linkedin.com/in/bradachristie) or [StackExchange](https://stackexchange.com/users/113091/brad-christie) profiles.
+
+Thanks!
